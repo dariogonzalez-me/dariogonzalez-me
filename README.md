@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dario</h1>
-<h3 align="center">A passionate Sys Admin from Argentina</h3>
+<h3 align="center">A Sys Admin from Argentina</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariogonzalez-me&label=Profile%20views&color=0e75b6&style=flat" alt="dariogonzalez-me" /> </p> -->
 
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariogonzalez-me&show_icons=true&locale=en&layout=compact" alt="dariogonzalez-me" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariogonzalez-me&show_icons=true&locale=en" alt="dariogonzalez-me" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariogonzalez-me&show_icons=true&locale=en" alt="dariogonzalez-me" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariogonzalez-me&" alt="dariogonzalez-me" /></p> -->
