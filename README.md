@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dariogonzalez-me" alt="dariogonzalez-me" /></a> </p> -->
 
-- 🌱 I’m currently learning **Linux, Python and Bash.**
+<!--- 🌱 I’m currently learning **Linux, Python and Bash.** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
